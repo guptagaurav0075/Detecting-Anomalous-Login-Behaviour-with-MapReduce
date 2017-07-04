@@ -8,8 +8,7 @@
   <packaging>jar</packaging>
 
   <name>Detecting-Anomalous-Login-Behaviour-with-MapReduce</name>
-  <url>http://maven.apache.org</url>
-
+ 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
